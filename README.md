@@ -6,12 +6,12 @@ This repository contains a basic Express server setup with an animated progress 
 
 1. Clone the repository to your local machine:
     ```
-    git clone <repository-url>
+    git clone <https://github.com/ShashwanthN/ServerRunningAnimation.git>
     ```
 
 2. Navigate into the cloned directory:
     ```
-    cd <directory-name>
+    cd <ServerRunningAnimation>
     ```
 
 3. Install dependencies using npm:
@@ -24,9 +24,8 @@ This repository contains a basic Express server setup with an animated progress 
     node server.js
     ```
 
-5. Open your browser and navigate to `http://localhost:3000` to see the animated progress.
 
-## Advantage
+## What It does?
 
 This code sets up a basic Express server and includes a feature to display an animated progress indicator while the server initializes. This can be advantageous in scenarios where you want to provide visual feedback to users while the server is starting up. It enhances user experience by giving them a clear indication that the server is in the process of starting.
 
