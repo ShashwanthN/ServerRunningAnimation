@@ -39,7 +39,7 @@ This code sets up a basic Express server and includes a feature to display an an
 
 ## Video Demo
 
-[![Express Server with Animated Progress Demo](https://i.ytimg.com/an_webp/RZ5c26CtUxo/mqdefault_6s.webp?du=3000&sqp=CO714q4G&rs=AOn4CLD7hreHveVms4rxK-GdkCOQkjdW_g)]([https://www.youtube.com/watch?v=<video-id>](https://youtu.be/RZ5c26CtUxo?si=sYHkdLPTh3zkGaWe))
+[![Express Server with Animated Progress Demo](https://i.ytimg.com/an_webp/RZ5c26CtUxo/mqdefault_6s.webp?du=3000&sqp=CO714q4G&rs=AOn4CLD7hreHveVms4rxK-GdkCOQkjdW_g)](https://youtu.be/RZ5c26CtUxo?si=sYHkdLPTh3zkGaWe)
 
 
 Click on the image above to watch the demo on YouTube.
