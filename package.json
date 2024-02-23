@@ -1,0 +1,26 @@
+{
+  "name": "terminalanimation",
+  "version": "1.0.0",
+  "description": " A simple animation in the terminal to indicate the server running. ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShashwanthN/ServerRunningAnimation.git"
+  },
+  "keywords": [
+    "animation"
+  ],
+  "author": "Shashwanth Sivakumar N",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShashwanthN/ServerRunningAnimation/issues"
+  },
+  "homepage": "https://github.com/ShashwanthN/ServerRunningAnimation#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
