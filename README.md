@@ -6,12 +6,12 @@ This repository contains a basic Express server setup with an animated progress 
 
 1. Clone the repository to your local machine:
     ```
-    git clone <https://github.com/ShashwanthN/ServerRunningAnimation.git>
+    git clone https://github.com/ShashwanthN/ServerRunningAnimation.git
     ```
 
-2. Navigate into the cloned directory:
+2. Navigate into the cloned directory(ignore):
     ```
-    cd <ServerRunningAnimation>
+    cd ServerRunningAnimation
     ```
 
 3. Install dependencies using npm:
